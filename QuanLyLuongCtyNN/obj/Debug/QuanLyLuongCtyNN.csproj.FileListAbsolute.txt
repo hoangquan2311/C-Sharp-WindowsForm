@@ -1,0 +1,89 @@
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe.config
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.pdb
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csprojAssemblyReference.cache
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Form1.resources
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Properties.Resources.resources
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.TinhLuongForm.resources
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.GenerateResource.cache
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CoreCompileInputs.cache
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.exe
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.pdb
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database1.mdf
+D:\PHANMEM\C#\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database1_log.ldf
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe.config
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.pdb
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.AssemblyReference.cache
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Form1.resources
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Properties.Resources.resources
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.TinhLuongForm.resources
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.GenerateResource.cache
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CoreCompileInputs.cache
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.exe
+C:\Users\QUAN\Desktop\BTL LTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.pdb
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database.mdf
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database_log.ldf
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe.config
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.pdb
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.exe
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.pdb
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmMain.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmNhanVien.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmPhongBan.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmChuyenMon.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmChucVu.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_ChucVu.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVChucVu.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmTrinhDo.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVTrinhDo.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_TrinhDo.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmHeSoLuong.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_HeSoLuong.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVHSL.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmBangLuong.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmSearch.resources
+C:\Users\ADMIN\Desktop\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmLogin.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database.mdf
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Database_log.ldf
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe.config
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe.manifest
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.application
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.exe
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\QuanLyLuongCtyNN.pdb
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmBangLuong.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmChucVu.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmChuyenMon.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmHeSoLuong.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmLogin.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmMain.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmNhanVien.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmPhongBan.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmSearch.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.frmTrinhDo.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.Properties.Resources.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_ChucVu.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_HeSoLuong.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVChucVu.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVHSL.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_NVTrinhDo.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.User_Control.UC_TrinhDo.resources
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.exe.manifest
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.application
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.csproj.CopyComplete
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.exe
+C:\Users\ADMIN\Documents\C#\Nhom17_BTL_LTTTQ\QuanLyLuongCtyNN\QuanLyLuongCtyNN\obj\Debug\QuanLyLuongCtyNN.pdb
